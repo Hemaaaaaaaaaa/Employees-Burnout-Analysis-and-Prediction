@@ -1,16 +1,19 @@
 # Employees-Burnout-Analysis-and-Prediction
 
 📝 Description
+
 This project aims to develop a predictive model using machine learning techniques to predict burnout rate of a Employee based on various factors.
 By understanding the factors contributing to burnout and developing prediction models, we aim to identify at-risk employees and provide targeted support.
 🚀 View Demo
 
 ⏳ Dataset
+
 Download the dataset for custom training data.
 
 This dataset contains employee information, including no.of designations, work-from-home availability, and other relevant attributes.
 
 🗂️Project Structure
+
 The project is organized into the following directories and files:
 
 Data: The data folder contains both raw and processed data used in this project.
@@ -23,6 +26,7 @@ Templates: The templates folder contains HTML templates used for rendering web p
 app.py: This is the main application file that runs the project's web application.
 Requirements: This requirements text file contains all the required dependencies that we need to install to run the project.
 🛠️How to Install and Run this Project?
+
 To get started with the project, follow these steps:
 
 Clone this repository to your local machine:
@@ -35,6 +39,7 @@ To run the project, execute follwoing commad:
 
 python app.py
 👨🏻‍💻How to Use this Project?
+
 Once you'have successfully installed and run the project, you can use it to predict the burnout rate of Emoloyees. Here's how to get started:
 
 Open your web browser and navigate to
@@ -48,6 +53,7 @@ The web app should provide you with results based on your input.
 prediction results
 Based on the results, you can take any necessary actions, make decisions, or utilize the project for your specific use case.
 🌐Deployment
+
 To deploy this project, follow these steps:
 
 Choose a hosting platform or service for your web application. Popular choices include Heroku, AWS, Azure, or PythonAnywhere.
@@ -72,6 +78,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 The MIT License is a permissive open source license that allows you to use, modify, and distribute this project for both commercial and non-commercial purposes.
 
 📝Feedback and Support
+
 If you have any feedback, suggestions, or questions regarding the project, please create an issue in the repository or contact me at usman.bvp@gmail.com.
 
 If you find this repository helpful, don't forget to show your support by giving it a star! ⭐
